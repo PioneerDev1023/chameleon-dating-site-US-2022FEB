@@ -1,0 +1,32 @@
+Web/APP development / Chameleon Dating Software
+
+I need to set an existing chameleon software dating site/app. Chameleon Dating Software Modification.
+
+Developers must have already worked with this platform.
+
+I need to get my dating page/app magamingle.us up and running with chameleon software.
+I want a very standard site, nothing out of the ordinary and a very standard questionnaire.
+
+One of the few things I want to tweak is I'll like to add to the questionnaire:
+
+Blood type and the choices. (optional)
+Favorite movies. (optional)
+Favorite TV shows (optional)
+Favorite books (optional)
+Favorite music. (optional)
+
+I also want users to be able to do a short description of themselves in the questionnaires.
+I like to see the option I have in terms of design to choose as interface for the questionnaire, profile page, etc. I prefer a light background and I want the dominant colors to red white and blue.
+
+I had problems with the confirmation emails to join the page when I previously did it with another company. I opened an account with one of these companies that send mass emails so in case we need it, it would be available.
+I have terms and conditions document, and I have an idea on what to charge. If possible, I would like to have three payment plans and I need to make sure that only paying users are able to message other users. Un paying users shouldn’t be able to message any other users. I know this seems self evident but it was an issue with my previous developer. It is also paramount that paying users are set on monthly automatic payment.
+I also have PayPal and Stripe accounts ready to be linked with the page. I have social media accounts on FB, twitter and Instagram to be displayed on the front page and I'll like to tweak some aspects of the front page, modify the main image, and change the subtitle of the page.
+
+Thank you all for your time and attention.
+wwwmagamingle.us
+
+$500
+
+Best Regards.
+
+Sandro Guerra.
