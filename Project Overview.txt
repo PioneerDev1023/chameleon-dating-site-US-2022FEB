@@ -30,3 +30,8 @@ $500
 Best Regards.
 
 Sandro Guerra.
+
+// chatting
+The page is already up, I may want to tweak a few things on the front page, like changing the slogan and maybe correcting the front image because I have a problem with the way the title looks, I can tweak the image myself and send you a better version to make it look right. The rest is just choosing templates, adding the payment plans, Plugging the accounts and adding the questions I posted to the questioner. You can check it out. at magamingle.us
+
+I need to customize the questioners. choose template for the pages. link stripe and paypal accounts to charge the users. Set monthly automatic payment for paying users. Set three payment plans if possible. Make sure that only paying users are able to message other users. Make sure users can rate or have priority to users based on distance. Make sure email confirmation to set acoounts work properly. Set the APP. and the rest of the specifications on the pervious description.wWQqQQW
